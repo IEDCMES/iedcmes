@@ -187,7 +187,7 @@ section {
 .section-heading h6 {
   font-size: 13px;
   text-transform: uppercase;
-  color: #7a7a7a;
+  color: #000;
   font-weight: 600;
 }
 
@@ -197,7 +197,7 @@ section {
   font-size: 28px;
   font-weight: 900;
   text-transform: capitalize;
-  color: #111;
+  color: #000;
 }
 
 .section-heading h4 em {
@@ -694,7 +694,7 @@ section.main-banner {
   z-index: 2;
   margin-top: 20px;
   font-size: 64px;
-  color: #111111;
+  color: #000;
   font-weight: 900;
   line-height: 74px;
   margin-bottom: 40px;
@@ -954,7 +954,7 @@ section.simple-cta h6 {
 section.simple-cta h4 {
   font-size: 62px;
   font-weight: 900;
-  color: #fff;
+  color: #000;
   line-height: 74px;
   margin-top: 20px;
 }
